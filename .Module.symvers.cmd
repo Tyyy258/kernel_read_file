@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/kernel_read_file/Module.symvers :=  scripts/mod/modpost       -o /home/ubuntu/op-tee/yzc/modules/kernel_read_file/Module.symvers -T /home/ubuntu/op-tee/yzc/modules/kernel_read_file/modules.order -i Module.symvers -e 

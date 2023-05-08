@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/kernel_read_file/modules.order := {   echo /home/ubuntu/op-tee/yzc/modules/kernel_read_file/kreadf.o; :; } > /home/ubuntu/op-tee/yzc/modules/kernel_read_file/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/kernel_read_file/kreadf.mod := printf '%s\n'   kreadf.o | awk '!x[$$0]++ { print("/home/ubuntu/op-tee/yzc/modules/kernel_read_file/"$$0) }' > /home/ubuntu/op-tee/yzc/modules/kernel_read_file/kreadf.mod
